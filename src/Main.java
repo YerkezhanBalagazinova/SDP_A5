@@ -11,5 +11,8 @@ public class Main {
 
         calculator.setStrategy(new MultiplyStrategy());
         System.out.println("10 * 5 = " + calculator.calculate(10, 5));
+
+        calculator.setStrategy(new DivideStrategy());
+        System.out.println("10 / 5 = " + calculator.calculate(10, 5));
     }
 }
