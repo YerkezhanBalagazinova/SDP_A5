@@ -1,4 +1,4 @@
-Assignment 5 – Strategy Pattern
+## Assignment 5 – Strategy Pattern
 
 Yerkezhan Balagazinova. SE-2527  
 **Topic:** Calculator using Strategy Pattern
